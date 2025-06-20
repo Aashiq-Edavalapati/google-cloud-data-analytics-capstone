@@ -87,6 +87,12 @@ This project was completed as part of the **Google Cloud Data Analytics Certific
 
 ---
 
+## 🗃️ Note
+
+Due to the temporary nature of the Google Cloud labs used in this project, there are no live deployment links. However, all query logic, screenshots, and summaries are included.
+
+---
+
 ## 📧 Contact
 
 Feel free to reach out if you have any questions or would like to discuss this project further!
