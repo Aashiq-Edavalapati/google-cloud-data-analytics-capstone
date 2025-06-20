@@ -33,19 +33,15 @@ This capstone project simulates a real-world data analytics scenario for **TheLo
 
 ```
 google-cloud-data-analytics-capstone/
-├── data/
-│   └── raw_data.csv            # Original raw data for the project
-│   └── cleaned_data.sql        # SQL script to generate cleaned/transformed data (optional, or reference BQ)
-├── bigquery/
-│   └── bq_queries.sql          # All SQL queries used for data loading, cleaning, and transformation in BigQuery
-├── looker/
-│   └── dashboard_screenshots/  # Screenshots of the key Looker Studio dashboards and reports
-│   └── dashboard_config_notes.md # Notes on dashboard design choices, metrics, and configurations
-├── summary/
-│   └── executive_summary.pdf   # The comprehensive business report summarizing findings and impact
-│   └── presentation_slides.pdf (optional) # Optional: Slides for a project walkthrough
-├── README.md                   # This README file
-└── .gitignore                  # Specifies intentionally untracked files to ignore
+├── README.md
+├── Part 1- Collect, process, and store data in BigQuery/
+│ ├── summary.md            # Project writeup for Part 1
+│ └── bigquery/
+│ └── bq_queries.sql        # SQL queries used in BigQuery
+├── Part 2 - Analyze and activate your data with Looker Enterprise/
+│ └── summary.md            # Project writeup for Part 2 (Looker)
+└── summary/
+└── executive_summary.pdf   # Final capstone executive summary
 ```
 
 ---
