@@ -73,15 +73,13 @@ The `executive_summary.pdf` located in the `summary/` folder provides a detailed
 
 ---
 
-## 🖼️ Project Walkthrough & Screenshots
+## 🖼️ Project Walkthrough
 
 To get a visual understanding of the project, please explore the following:
 
 * **BigQuery Data Schema:** See how the data was structured for efficient querying.
     * [Link to Screenshot of BigQuery Schema] (If uploaded)
 * **Final Looker Studio Dashboard:** Interact with or view the primary dashboard built for the Treasury team.
-    * [Link to Screenshot(s) of Looker Dashboard] (Add multiple if needed)
-    * [Link to Loom Video Walkthrough] (Optional: if you create a short video)
 
 ---
 
@@ -89,7 +87,7 @@ To get a visual understanding of the project, please explore the following:
 
 This project was completed as part of the **Google Cloud Data Analytics Certification**.
 
-* [Link to your Google Cloud Certification Badge] (If applicable)
+* [Link to Google Cloud Certification Badge]
 
 ---
 
@@ -97,7 +95,7 @@ This project was completed as part of the **Google Cloud Data Analytics Certific
 
 Feel free to reach out if you have any questions or would like to discuss this project further!
 
-* Your Name: Aashiq Edavalapati
+* Name: Aashiq Edavalapati
 * LinkedIn: https://www.linkedin.com/in/aashiq-edavalapati-77b346289/
 * Email: aashiqedavalapati58@gmail.com
 
